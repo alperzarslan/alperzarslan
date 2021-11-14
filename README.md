@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alperzarslan
+- 👋 Hi, I’m ALPER ARSLAN, @alperzarslan
 - 👀 I’m interested in SQL, Python, Tableau, R and etc.
 - 🌱 I’m currently learning more with Python advanced libraries.
 - 💞️ I’m looking to collaborate on project initiation.
