@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ALPER ARSLAN, @alperzarslan
-- 👀 I’m interested in SQL, Python, Tableau, R and etc.
+- 👀 I’m interested in SQL, Python,  R, Tableau, Power NI and etc.
 - 🌱 I’m currently learning more with Python advanced libraries.
 - 💞️ I’m looking to collaborate on project initiation.
 - 📫 How to reach me alperzarslan@gmail.com
